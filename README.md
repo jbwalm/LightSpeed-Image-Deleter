@@ -9,5 +9,3 @@ The images used are filler images from a test system.
 
 Remove all screenshots and replace them as required, although this should mostly not be required.
 The only change required is the beginning go to url function.
-
-This could also be extended further with Docker Cloud.
